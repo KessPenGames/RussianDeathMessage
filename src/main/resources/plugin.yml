@@ -1,0 +1,6 @@
+name: RussianDeathMessage
+version: '${project.version}'
+main: net.simple.russian.death.message.RussianDeathMessageMain
+api-version: 1.18
+authors: [ No_KessPen ]
+description: Русские сообщения о смерти
